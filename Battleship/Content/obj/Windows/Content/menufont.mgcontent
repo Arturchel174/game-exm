@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Artur Khamidulin/Downloads/Battleship-master/Battleship-master/Battleship/Content/menufont.spritefont</SourceFile>
+  <SourceTime>2018-06-15T15:52:40+05:00</SourceTime>
+  <DestFile>C:/Users/Artur Khamidulin/Downloads/Battleship-master/Battleship-master/Battleship/Content/bin/Windows/Content/menufont.xnb</DestFile>
+  <DestTime>2020-12-28T17:04:21.2878007+05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-09-24T02:55:52+05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-09-24T02:55:52+05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
